@@ -1,5 +1,4 @@
 
-
 import React, { Component } from 'react';
 
 import {
@@ -12,9 +11,7 @@ import {
 
 import Layout from './app/layout1'
 
-
-
-export default class rnlayouts extends Component {
+export default class App extends Component {
   
   render() {
     return (
@@ -25,4 +22,4 @@ export default class rnlayouts extends Component {
 
 
 
-AppRegistry.registerComponent('rnlayouts', () => rnlayouts);
+AppRegistry.registerComponent('rnlayouts', () => App);
