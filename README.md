@@ -7,7 +7,10 @@ Fork the [project](https://rnplay.org/apps/YxvZRg) and follow the steps describe
 
 ###Test locally
 
-Download this project and run `npm install` and `react-native run-ios` or `react-native run-android` 
+* Download this project 
+* `cd` to the downloaded directory 
+* Run `npm install` 
+* `react-native run-ios` or `react-native run-android` 
 
 ###Layout1 - Blank view
 ![layout1.js](app/screenshots/layout1.png)
