@@ -15,7 +15,7 @@ export default class Layout1 extends Component {
     return (
 
       <View style={styles.container}>
-        <Text>Blank View</Text>
+        <Text style={styles.text}>Blank View</Text>
       </View>
     
     );
@@ -27,7 +27,11 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#F5FCFF',
+    backgroundColor: '#9BC4CB',
+  },
+  text:{
+    fontSize: 20,
+    color: 'white'
   }
 });
 
