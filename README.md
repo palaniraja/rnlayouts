@@ -5,6 +5,9 @@ Collection of common mobile app layouts built with React Native
 
 Fork the [project](https://rnplay.org/apps/YxvZRg) and follow the steps described in the rnplay project.
 
+###Test locally
+
+Download this project and run `npm install` and `react-native run-ios` or `react-native run-android` 
 
 ###Layout1 - Blank view
 ![layout1.js](app/screenshots/layout1.png)
