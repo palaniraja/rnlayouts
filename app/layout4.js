@@ -10,7 +10,7 @@ import {
   View
 } from 'react-native';
 
-export default class Layout3 extends Component {
+export default class Layout4 extends Component {
   render() {
     return (
 
