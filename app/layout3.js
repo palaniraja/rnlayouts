@@ -28,7 +28,7 @@ const styles = StyleSheet.create({
   
   container: {
     flex: 1,
-    marginTop: 20
+    marginTop: 20,
   },
   
   text:{
@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
 
   content:{
     flex:1,
-    backgroundColor: '#9BC4CB'
+    backgroundColor: '#9BC4CB',
   }
 
 });

@@ -25,4 +25,9 @@ Fork the [project](https://rnplay.org/apps/YxvZRg) and follow the steps describe
 ![layout4.js](app/screenshots/layout4.png)
 
 ###Layout5 - Adaptive layout (different layouts for portrait and landscape)
-![layout4.js](app/screenshots/layout5-p.png) ![layout4.js](app/screenshots/layout5-l.png)
+![layout5.js](app/screenshots/layout5-p.png) ![layout5.js](app/screenshots/layout5-l.png)
+
+
+###Layout6 - Gallery layout (left, right arrows overlay)
+![layout6.js](app/screenshots/layout6.png)
+It is straight forward of 3 column layout with flex and magic of -ve margin. But I spent way much time(in days) thinking
