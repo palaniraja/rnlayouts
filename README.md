@@ -36,3 +36,5 @@ It is straight forward of 3 column layout with flex and magic of -ve margin. But
 ###Layout7 - Overlapping images
 ![layout7.js](app/screenshots/layout7.png)
 Based on layout6.js, but to check feasibility of http://www.palaniraja.com/letsreadnotes/ 
+
+[YouTube demo](youtu.be/c0Im3BnzZc4)
