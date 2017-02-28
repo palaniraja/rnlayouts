@@ -9,7 +9,7 @@ import {
 } from 'react-native';
 
 
-import Layout from './app/layout6'
+import Layout from './app/layout7'
 
 export default class App extends Component {
   
