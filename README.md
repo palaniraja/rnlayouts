@@ -30,11 +30,13 @@ Fork the [project](https://rnplay.org/apps/YxvZRg) and follow the steps describe
 
 ###Layout6 - Gallery layout (left, right arrows overlay)
 ![layout6.js](app/screenshots/layout6.png)
+
 It is straight forward of 3 column layout with flex and magic of -ve margin. But I spent way much time(in days) thinking
 
 
 ###Layout7 - Overlapping images
 ![layout7.js](app/screenshots/layout7.png)
+
 Based on layout6.js, but to check feasibility of http://www.palaniraja.com/letsreadnotes/ 
 
 [YouTube demo](youtu.be/c0Im3BnzZc4)
